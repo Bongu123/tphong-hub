@@ -1,5 +1,5 @@
 Config = {
-    namescript = "Bodz hub”,--Tên Script
+    namescript = "tphong”,--Tên Script
     logoscript = "80024240379814",--ID Logo Script
     tacgia = "tphong"-- Tên Tác Giả
 }
